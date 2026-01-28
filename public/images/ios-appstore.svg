@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-label="6Club iOS app download illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03002e"/>
+      <stop offset="1" stop-color="#120a66"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#EFBF04"/>
+      <stop offset="1" stop-color="#ffdd55"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+
+  <!-- glow ring -->
+  <g opacity="0.22">
+    <ellipse cx="600" cy="970" rx="420" ry="70" fill="#EFBF04"/>
+  </g>
+
+  <!-- phones -->
+  <g filter="url(#shadow)">
+    <g transform="translate(210,210) rotate(-10 300 450)">
+      <rect x="120" y="40" width="420" height="820" rx="56" fill="#0b0b16" stroke="rgba(255,255,255,0.18)" stroke-width="3"/>
+      <rect x="150" y="120" width="360" height="650" rx="30" fill="rgba(239,191,4,0.08)" stroke="rgba(239,191,4,0.25)" stroke-width="2"/>
+      <circle cx="330" cy="86" r="10" fill="rgba(255,255,255,0.35)"/>
+      <rect x="260" y="820" width="140" height="18" rx="9" fill="rgba(255,255,255,0.20)"/>
+      <text x="185" y="200" fill="url(#gold)" font-family="Orbitron, Arial, sans-serif" font-size="42" font-weight="700">6CLUB</text>
+      <text x="185" y="250" fill="rgba(255,255,255,0.75)" font-family="Poppins, Arial, sans-serif" font-size="20">App Preview</text>
+    </g>
+
+    <g transform="translate(540,160) rotate(10 300 480)">
+      <rect x="120" y="40" width="420" height="880" rx="56" fill="#0b0b16" stroke="rgba(255,255,255,0.18)" stroke-width="3"/>
+      <rect x="150" y="120" width="360" height="710" rx="30" fill="rgba(239,191,4,0.10)" stroke="rgba(239,191,4,0.28)" stroke-width="2"/>
+      <circle cx="330" cy="86" r="10" fill="rgba(255,255,255,0.35)"/>
+      <rect x="260" y="870" width="140" height="18" rx="9" fill="rgba(255,255,255,0.20)"/>
+      <text x="185" y="210" fill="url(#gold)" font-family="Orbitron, Arial, sans-serif" font-size="42" font-weight="700">6CLUB</text>
+      <text x="185" y="260" fill="rgba(255,255,255,0.75)" font-family="Poppins, Arial, sans-serif" font-size="20">App Preview</text>
+    </g>
+  </g>
+
+  <!-- App Store badge -->
+  <g transform="translate(420,80)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="110" rx="24" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.22)" stroke-width="2"/>
+    <circle cx="70" cy="55" r="34" fill="rgba(255,255,255,0.18)"/>
+    <path d="M58 70l18-32m-10 0l22 32m-32-8h36" stroke="rgba(255,255,255,0.85)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <text x="120" y="70" fill="rgba(255,255,255,0.92)" font-family="Poppins, Arial, sans-serif" font-size="34" font-weight="700">App Store</text>
+  </g>
+
+  <!-- note -->
+  <text x="60" y="1140" fill="rgba(255,255,255,0.65)" font-family="Poppins, Arial, sans-serif" font-size="18">
+    Replace this placeholder with your provided image by saving it as public/images/ios-appstore.webp and updating the src.
+  </text>
+</svg>
+
+

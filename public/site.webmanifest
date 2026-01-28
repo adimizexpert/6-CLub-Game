@@ -1,0 +1,25 @@
+{
+  "name": "6Club Guide",
+  "short_name": "6Club",
+  "description": "6Club Game Official Guide - Download APK & Play Games",
+  "icons": [
+    {
+      "src": "/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#03002e",
+  "background_color": "#03002e",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait-primary"
+}
+
