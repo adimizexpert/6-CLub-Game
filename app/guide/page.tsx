@@ -6,7 +6,7 @@ import Image from 'next/image'
 export const metadata: Metadata = {
   title: '6 Club Register & Login Guide | Sign Up Tutorial 2026',
   description:
-    'Complete 6 Club registration guide. Learn how to register, sign up & login in 5 easy steps. Join 80M+ players. Safe, secure & legit platform!',
+    'Complete 6 Club registration guide. Learn how to register, sign up & login in 5 easy steps. Safe, secure platform.',
   alternates: {
     canonical: 'https://6clubguide.com/guide',
   },
@@ -72,7 +72,7 @@ export default function Guide() {
               Welcome to 6 Club - Your Gateway to India&apos;s Premier Gaming Platform
             </h2>
             <p className="text-lg text-white/90 font-poppins leading-relaxed mb-4">
-              Welcome to 6 Club, India&apos;s most trusted online gaming platform with over 80 million active players worldwide! We&apos;re excited to guide you through the simple and secure 6 club register process. Whether you&apos;re looking to 6 club sign up for the first time or need help with 6 club login procedures, this guide covers everything you need to know.
+              Welcome to 6 Club, India&apos;s trusted online gaming platform. We&apos;re excited to guide you through the simple and secure 6 club register process. Whether you&apos;re looking to 6 club sign up for the first time or need help with 6 club login procedures, this guide covers everything you need to know.
             </p>
             <p className="text-lg text-white/90 font-poppins leading-relaxed">
               The 6 club registration process is designed for convenience and security. From downloading the 6 club app to completing your first 6 club login, every step is streamlined to get you started quickly while maintaining strong security standards.

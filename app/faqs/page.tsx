@@ -56,7 +56,7 @@ const faqSchema = {
       acceptedAnswer: {
         '@type': 'Answer',
         text:
-          '6 Club is a real, licensed gaming platform that has been operating for over 5 years with 80M+ users, certified RNG games, verified payment partners and thousands of successful withdrawals and reviews from real players.',
+          '6 Club is a licensed gaming platform with certified RNG games, verified payment partners, and withdrawal options. Read answers to common questions about the app, login, and gameplay.',
       },
     },
     {

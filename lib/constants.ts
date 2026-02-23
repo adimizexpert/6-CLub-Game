@@ -40,12 +40,15 @@ export const games = [
   },
 ]
 
+export const TELEGRAM_URL = 'https://t.me/+remz_D6bArE1YWVl'
+
 export const navigationLinks = [
   { name: 'Home', href: '/' },
   { name: 'About', href: '/about' },
   { name: 'Guide', href: '/guide' },
   { name: 'Our Games', href: '/6-club-games' },
   { name: 'FAQs', href: '/faqs' },
+  { name: 'Telegram', href: '/telegram' },
 ]
 
 export const footerLinks = {
@@ -55,6 +58,7 @@ export const footerLinks = {
     { name: 'Guide', href: '/guide' },
     { name: 'Our Games', href: '/6-club-games' },
     { name: 'FAQs', href: '/faqs' },
+    { name: 'Telegram', href: '/telegram' },
   ],
   legal: [
     { name: 'Privacy Policy', href: '/privacy-policy' },

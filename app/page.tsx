@@ -49,10 +49,22 @@ export default function Home() {
         </div>
 
         {/* CTA Buttons */}
-        <div className="flex flex-row gap-3 sm:gap-4 justify-center items-center mb-10">
+        <div className="flex flex-row gap-3 sm:gap-4 justify-center items-center mb-4">
           <CTAButton text="REGISTER NOW" variant="primary" className="whitespace-nowrap" />
           <CTAButton text="LOGIN NOW" variant="secondary" className="whitespace-nowrap" />
         </div>
+        <a
+          href="https://t.me/+remz_D6bArE1YWVl"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center justify-center gap-2 px-5 py-3 rounded-lg font-orbitron font-bold text-white text-sm sm:text-base transition-all duration-300 hover:opacity-90 transform hover:scale-105 active:scale-95 mb-10"
+          style={{ backgroundColor: '#229ED9' }}
+        >
+          <svg className="w-5 h-5 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+            <path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z" />
+          </svg>
+          Join Our Telegram Community
+        </a>
 
         <p className="text-lg md:text-xl text-white/90 font-poppins max-w-4xl mx-auto text-center mb-6 leading-relaxed">
           6 Club is a premier, modern online gaming platform meticulously designed for users who crave interactive, engaging, and skill-based digital experiences. Whether you are looking for a quick thrill or a deep strategic challenge, the 6 club download apk gives you instant access to a world of entertainment directly on your device.
@@ -71,28 +83,9 @@ export default function Home() {
           <p className="text-lg text-white/90 font-poppins mb-6 leading-relaxed">
             6 Club is India&apos;s premier online gaming platform, delivering an exceptional gaming experience that combines entertainment with top-tier security. Whether you&apos;re looking to download 6 Club APK or join 6 Club through official channels, we&apos;ve built a platform designed for every type of player.
           </p>
-          <p className="text-lg text-white/90 font-poppins mb-8 leading-relaxed">
-            Our diverse game selection includes Colour Prediction, Poker, Slots, and other popular formats that keep millions of players engaged daily. Every feature—from 6 Club login to withdrawals—has been optimized for a seamless, secure, and reliable experience.
+          <p className="text-lg text-white/90 font-poppins mb-10 leading-relaxed">
+            Our diverse game selection includes Colour Prediction, Poker, Slots, and other popular formats. Every feature—from 6 Club login to withdrawals—has been optimized for a seamless, secure, and reliable experience.
           </p>
-
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
-            <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-4 text-center">
-              <div className="text-2xl md:text-3xl font-orbitron font-bold text-gold">80M+</div>
-              <div className="text-white/80 font-poppins text-sm mt-1">Active Players</div>
-            </div>
-            <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-4 text-center">
-              <div className="text-2xl md:text-3xl font-orbitron font-bold text-gold">5+</div>
-              <div className="text-white/80 font-poppins text-sm mt-1">Years Trusted</div>
-            </div>
-            <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-4 text-center">
-              <div className="text-2xl md:text-3xl font-orbitron font-bold text-gold">4</div>
-              <div className="text-white/80 font-poppins text-sm mt-1">Withdrawal Options</div>
-            </div>
-            <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-4 text-center">
-              <div className="text-2xl md:text-3xl font-orbitron font-bold text-gold">98%</div>
-              <div className="text-white/80 font-poppins text-sm mt-1">Satisfaction</div>
-            </div>
-          </div>
 
           <div className="text-center">
             <Link
@@ -217,26 +210,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-        </div>
-      </section>
-
-      {/* Testimonials Section */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-20">
-        <h6 className="text-3xl md:text-4xl font-orbitron font-bold text-center mb-4 text-gold">
-          Player Testimonials on 6 Club
-        </h6>
-        <p className="text-center text-white/80 font-poppins mb-12 text-xl">
-          Trusted by our Players
-        </p>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {[1, 2, 3].map((i) => (
-            <div key={i} className="bg-dark-blue/50 rounded-lg p-6 border border-gold/20">
-              <p className="text-white/90 font-poppins mb-4 italic">
-                "6 Club has transformed my gaming experience. The platform is smooth, the games are engaging, and the community is amazing!"
-              </p>
-              <p className="text-gold font-orbitron font-bold">- Verified Player</p>
-            </div>
-          ))}
         </div>
       </section>
 

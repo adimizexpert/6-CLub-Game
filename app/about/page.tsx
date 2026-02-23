@@ -6,7 +6,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: "6 Club - Download APK | Official App Login & Register | India's #1 Gaming Platform",
   description:
-    "Download 6 Club APK latest version ✓ Official login & register ✓ 98% satisfaction rate ✓ 80M+ players ✓ Fast withdrawals ✓ Trusted since 2019",
+    "Download 6 Club APK latest version ✓ Official login & register ✓ Multiple withdrawal options ✓ Secure platform. Learn about 6 Club app and games.",
   keywords: [
     '6 club',
     '6 club app',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     url: 'https://6clubguide.com/about',
     title: "About 6 Club - India's Most Trusted Online Gaming Platform",
     description:
-      "Learn who we are, our mission, achievements, payment options, and why millions trust 6 Club for secure gaming and fast withdrawals.",
+      "Learn who we are, our mission, payment options, and why players choose 6 Club for secure gaming and withdrawals.",
     images: [
       {
         url: 'https://6clubguide.com/images/about.webp',
@@ -70,7 +70,7 @@ export default function About() {
               6 Club is India&apos;s premier online gaming platform, delivering an exceptional gaming experience that combines entertainment with top-tier security. Whether you&apos;re looking to download 6 Club APK or join 6 Club through our official channels, we&apos;ve created a platform designed for every type of player.
             </p>
             <p className="text-lg text-white/90 font-poppins leading-relaxed">
-              Our diverse game selection includes Colour Prediction, Poker, Slots, and numerous other popular gaming formats that keep millions of players engaged daily. Since our launch, the 6 Club app has become synonymous with trust, reliability, and exciting gameplay—optimized end-to-end for a seamless experience from 6 Club login to withdrawals.
+              Our diverse game selection includes Colour Prediction, Poker, Slots, and numerous other popular gaming formats. The 6 Club app is designed for trust, reliability, and exciting gameplay—optimized end-to-end for a seamless experience from 6 Club login to withdrawals.
             </p>
           </section>
 
@@ -85,28 +85,9 @@ export default function About() {
 
           <section className="bg-dark-blue/50 rounded-lg p-8">
             <h2 className="text-3xl font-orbitron font-bold mb-6 text-gold">
-              Our Achievements and Milestones
+              Payment and Withdrawal Options
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-6">
-                <div className="text-3xl font-orbitron font-bold text-gold">80 Million+</div>
-                <div className="text-white/90 font-poppins mt-2">Active players worldwide</div>
-              </div>
-              <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-6">
-                <div className="text-3xl font-orbitron font-bold text-gold">98%</div>
-                <div className="text-white/90 font-poppins mt-2">Player satisfaction rate</div>
-              </div>
-              <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-6">
-                <div className="text-3xl font-orbitron font-bold text-gold">5 Years+</div>
-                <div className="text-white/90 font-poppins mt-2">Trusted service since 2019</div>
-              </div>
-              <div className="bg-dark-blue/60 border border-gold/20 rounded-lg p-6">
-                <div className="text-3xl font-orbitron font-bold text-gold">4</div>
-                <div className="text-white/90 font-poppins mt-2">Major withdrawal options</div>
-              </div>
-            </div>
-
-            <div className="mt-6 space-y-4 text-white/90 font-poppins">
+            <div className="space-y-4 text-white/90 font-poppins">
               <p>
                 Players can withdraw using trusted methods like Paytm, PhonePe, Google Pay, and direct Bank Transfer. Our system is designed for reliability and speed to reduce common deposit and withdrawal delays.
               </p>

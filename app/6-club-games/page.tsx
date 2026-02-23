@@ -6,7 +6,7 @@ import CTAButton from '@/components/CTAButton'
 export const metadata: Metadata = {
   title: '6 Club Games - Wingo, K3 Lotre, Slots, Casino | Play Now',
   description:
-    'Play 6 Club games - Wingo, K3 Lotre, TRX Hash, slots, casino, sports & more. Join 80M+ players. Download 6 Club app & start winning today!',
+    'Play 6 Club games - Wingo, K3 Lotre, TRX Hash, slots, casino, sports & more. Download 6 Club app and start playing today.',
   alternates: {
     canonical: 'https://6clubguide.com/6-club-games',
   },
@@ -77,7 +77,7 @@ export default function SixClubGames() {
           The <strong>6 club app</strong> provides seamless access to our complete game library, letting you explore
           featured games like Wingo, TRX Hash, K3 Lotre, and 5D Lotre. Manage your <strong>6 club deposit</strong> and{' '}
           <strong>6 club withdrawal</strong>, track your progress, and enjoy a trusted gaming experience built for a
-          global community of 80M+ players.
+          global community of players.
         </p>
 
         <section className="bg-dark-blue/50 rounded-lg p-8 border border-gold/20">
