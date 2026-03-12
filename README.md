@@ -94,7 +94,7 @@ Place the following images in the `public/images/` directory:
 ## Affiliate Link
 
 All registration and login buttons redirect to:
-`https://6club22.com/#/register?invitationCode=314234219206`
+`https://www.bigmumbaia.com/#/register?invitationCode=823647709954`
 
 ## Build for Production
 

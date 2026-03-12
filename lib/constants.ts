@@ -1,4 +1,4 @@
-export const AFFILIATE_LINK = 'https://6club22.com/#/register?invitationCode=314234219206'
+export const AFFILIATE_LINK = 'https://www.bigmumbaia.com/#/register?invitationCode=823647709954'
 export const SITE_URL = 'https://6clubguide.com'
 export const SITE_NAME = '6Club Guide'
 
