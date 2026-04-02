@@ -46,7 +46,7 @@
 
 - All Login and Register buttons redirect to the affiliate link
 - Domain configured: 6clubguide.com
-- Affiliate link: https://www.bigmumbaia.com/#/register?invitationCode=823647709954
+- Affiliate link: https://www.jaiclub00.com/#/register?invitationCode=16454276749
 - Theme colors: Dark Blue (#03002e) and Gold (#EFBF04)
 - Fonts: Orbitron (headings) and Poppins (body)
 

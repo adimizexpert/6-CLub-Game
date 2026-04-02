@@ -94,7 +94,7 @@ Place the following images in the `public/images/` directory:
 ## Affiliate Link
 
 All registration and login buttons redirect to:
-`https://www.bigmumbaia.com/#/register?invitationCode=823647709954`
+`https://www.jaiclub00.com/#/register?invitationCode=16454276749`
 
 ## Build for Production
 
